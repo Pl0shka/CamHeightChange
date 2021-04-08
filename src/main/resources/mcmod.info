@@ -1,0 +1,16 @@
+[
+{
+  "modid": "camheightchange",
+  "name": "CamHeightChange",
+  "description": "Добавляет возможность изменять высоту (вверх/вниз) камеры игрока. Внимание! Это  запрещено на многих  серверах! В том числе и на Mst Network (лол это реклама?).  Adds the ability to change the height (up / down) of the player's camera. Attention! This is prohibited on many servers!",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "https://vk.com/pl0shka | https://github.com/Pl0shka/CamHeightChange-1.12.2",
+  "updateUrl": "",
+  "authorList": ["pl0shka(_Loshka_)"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
